@@ -1,0 +1,14 @@
+.author{
+    color: #111;
+    font-size: 18px;
+    font-weight: 700;
+}
+.date{
+    color: #ccc;
+    font-size: 12px;
+}
+.content{
+    font-size: 14px;
+    padding: 10px 0;
+    color: #69e;
+}
